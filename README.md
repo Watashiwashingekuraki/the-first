@@ -1,2 +1,3 @@
 # the-first
 Reposetory
+I AM thinking about learn termux SO... 
